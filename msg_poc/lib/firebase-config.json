@@ -1,0 +1,10 @@
+{
+  "apiKey": "AIzaSyBAjz4xEfHcRGF7ot9Timvn4Y4iWHwFxyM",
+  "appId": "1:146253518377:web:9364fdac03407722d4ee38",
+  "messagingSenderId": "146253518377",
+  "projectId": "fir-msg-database",
+  "authDomain": "fir-msg-database.firebaseapp.com",
+  "databaseURL": "https://fir-msg-database-default-rtdb.firebaseio.com",
+  "storageBucket": "fir-msg-database.appspot.com",
+  "measurementId": "G-8ERX4BW9R8"
+}
